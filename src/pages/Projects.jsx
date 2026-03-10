@@ -2,7 +2,7 @@ import React from 'react';
 
 const Projects = () => {
   const mesProjets = [
-    { id: 1, title: "Gestion Bibliothéque", img: "/Java.jpg", desc: "Mise en oeuvre des concepts de Programmation Orientée Object(POO) en Java" },
+    { id: 1, title: "Gestion Bibliothéque", img: "/java.jpg", desc: "Mise en oeuvre des concepts de Programmation Orientée Object(POO) en Java" },
     { id: 2, title: "Gestion des Examens au Sénégal", img: "/algo.jpg", desc: "Développer un algorithme et un programme en C pour gérer les notes des étudiants, calculer les moyennes, les appréciations et les décisions du conseil de classe, ainsi que les moyennes générales par classe, établissement, département et région." },
     { id: 3, title: "Gestion d'une base de données d'Etat Civil", img: "/Base-données.jpg", desc: "Modéliser et manipuler les données relatives aux citoyens,naissances,mariages,décés,et logements" },
   ];
